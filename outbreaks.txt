@@ -28,4 +28,3 @@ Dole Fresh Blueberries,Food Recall,Wisconsin,Red,Cyclospora contamination risk s
 Paris Hilton Mini Beauty Fridges,Product Recall,Nebraska,Orange,May overheat so discontinue use and request remedy.
 2026 Hyundai Palisades,Product Recall,Ohio,Red,Take vehicle to dealership immediately for inspection.
 E. coli Outbreak Linked to Raw Dairy,Disease,California,Yellow,Avoid raw milk and raw cheese and seek medical advice if sick.
-Baby formula,Food Recall,Georgia,Yellow,Dont Use
