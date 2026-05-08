@@ -7,7 +7,7 @@ def load_data():
     global outbreaks
     outbreaks = []
 
-    file = open("/users/sarahbaseer/Documents/GitHub/ssas/outbreaks.txt", "r")
+    file = open("outbreaks.txt", "r")
     #strip whitespace and split by comma, then create alert dictionary and add to list
     for line in file:
         line = line.strip()
@@ -159,7 +159,7 @@ def add_new_alert():
     new_line = f"{name},{type_},{location},{severity},{prevention}\n"
 
     #append new alert to file
-    file = open("/users/sarahbaseer/Documents/GitHub/ssas/outbreaks.txt", "a")
+    file = open("outbreaks.txt", "a")
     file.write(new_line)
     file.close()
 
