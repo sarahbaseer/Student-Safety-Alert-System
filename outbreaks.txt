@@ -1,0 +1,31 @@
+Salmonella in Packaged Spinach,Food Recall,California,Red,Avoid consuming spinach and discard immediately.
+Listeria in Deli Meats,Food Recall,New York,Red,Do not eat affected products and sanitize surfaces.
+E. coli in Ground Beef,Food Recall,Texas,Red,Cook beef thoroughly and avoid cross-contamination.
+Undeclared Peanuts in Cookies,Food Recall,Illinois,Orange,Check labels and avoid if allergic.
+Spoiled Milk Batch Recall,Food Recall,Ohio,Yellow,Return product for refund.
+Defective Phone Battery,Product Recall,California,Red,Stop using device and return to manufacturer.
+Lead Contamination in Toys,Product Recall,Florida,Red,Keep away from children and return product.
+Faulty Space Heater,Product Recall,Colorado,Red,Unplug immediately and request replacement.
+Cracked Water Bottles,Product Recall,Arizona,Orange,Discontinue use and contact company.
+Loose Bicycle Brakes,Product Recall,Oregon,Orange,Repair before use or return item.
+Flu Outbreak,Disease,Georgia,Orange,Get vaccinated and wash hands frequently.
+Measles Cases Rising,Disease,Washington,Red,Ensure vaccinations are up to date.
+Norovirus Spread,Disease,Nevada,Orange,Practice proper hygiene and avoid contaminated food.
+Seasonal Allergies,Disease,North Carolina,Yellow,Use antihistamines and avoid allergens.
+Chickenpox Cases,Disease,Virginia,Yellow,Limit contact and follow medical advice.
+Iron Supplement Bottles,Product Recall,South Carolina,Yellow,Store away from children.
+Uncleared Milk in Wawa Iced Tea,Food Recall,Delaware,Red,Do not consume and return for refund.
+BISSELL Steam Shot,Product Recall,Nevada,Yellow,Stop using attachments immediately and contact BISSELL.
+Clostridium Botulinum in Peeled Garlic,Disease,Mississippi,Red,Discard safely and do not consume.
+Influenza A (H3N2) Subclade K Spread,Disease,Minnesota,Red,Wear N95 mask and vaccination recommended.
+Monkeypox Cluster,Disease,New York City,Orange,Avoid close skin-to-skin contact and seek vaccination if eligible.
+Trader Joe’s Almond Windmill Cookies Metal Fragments,Food Recall,Colorado,Red,Stop using and return for refund.
+Dehumidifiers Overheating or Fire Risk,Product Recall,Maine,Red,Unplug immediately and follow recall instructions.
+Einstein Bros Honey Cream Cheese Undeclared Almonds,Food Recall,Maryland,Red,Do not consume and return for refund.
+Wegmans Lundberg Organic Jasmine White Rice,Food Recall,New Jersey,Red,May contain foreign material so do not consume.
+Aldi Bremer Italian Style Meatballs,Food Recall,Iowa,Red,Possible foreign material risk so return or discard.
+Dole Fresh Blueberries,Food Recall,Wisconsin,Red,Cyclospora contamination risk so discard immediately.
+Paris Hilton Mini Beauty Fridges,Product Recall,Nebraska,Orange,May overheat so discontinue use and request remedy.
+2026 Hyundai Palisades,Product Recall,Ohio,Red,Take vehicle to dealership immediately for inspection.
+E. coli Outbreak Linked to Raw Dairy,Disease,California,Yellow,Avoid raw milk and raw cheese and seek medical advice if sick.
+Baby formula,Food Recall,Georgia,Yellow,Dont Use
